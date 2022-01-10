@@ -17,7 +17,7 @@
 ## About me:mage_man:
 
 <p>
-    My name is **Innocent Chukwuemeka** a passionate **Frontend Engineer**. I enjoy coding as much as I love anime and interacting with other tech individuals and look forward to new opportunities in exploring the different aspect of the tech space.
+    My name is <strong>Innocent Chukwuemeka</strong> a passionate <strong>Frontend Engineer</strong>. I enjoy coding as much as I love anime and interacting with other tech individuals and look forward to new opportunities in exploring the different aspect of the tech space.
 </p><br/>
 
 ## What I'm up to currently:computer:
