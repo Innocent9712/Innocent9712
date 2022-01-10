@@ -24,7 +24,7 @@
 
 - 🔭 I’m currently working on getting better as a Frontend Engineer.
 - 🌱 I’m currently learning Next.js and Cloud Engineering.
-- 👯 I’m looking to collaborate on projects that are fun and exciting.
+- 👯 I’m looking to collaborating/working on projects that are fun and exciting.
 - 📫 You can reach me via my [email](mailto:chukwuemeka140@gmail.com) or my socials above.
 <br/><br/>
 
@@ -35,20 +35,25 @@
    <a href="https://github.com/Innocent9712/Spacetagram">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Innocent9712&repo=Spacetagram&theme=blueberry" width="400"/>
    </a>
-   <a href="https://github.com/Innocent9712/arithMathic">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Innocent9712&repo=arithMathic&theme=blueberry" width="400"/>
+    
+   <a href="https://github.com/Innocent9712/Website">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Innocent9712&repo=Website&theme=blueberry" width="400"/>
    </a>
+    
    <a href="https://github.com/Innocent9712/Learnable-2021-standardization-test">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Innocent9712&repo=Learnable-2021-standardization-test&theme=blueberry" width="400"/>
+       
+   <a href="https://github.com/Innocent9712/mix-match">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Innocent9712&repo=mix-match&theme=blueberry" width="400"/>
+   </a>
+       
    </a>
    <a href="https://github.com/Innocent9712/QuickQuestion">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Innocent9712&repo=QuickQuestion&theme=blueberry" width="400"/>
    </a>
-   <a href="https://github.com/Innocent9712/mix-match">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Innocent9712&repo=mix-match&theme=blueberry" width="400"/>
-   </a>
-   <a href="https://github.com/Innocent9712/Website">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Innocent9712&repo=Website&theme=blueberry" width="400"/>
+
+   <a href="https://github.com/Innocent9712/arithMathic">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Innocent9712&repo=arithMathic&theme=blueberry" width="400"/>
    </a>
 </p>
 
