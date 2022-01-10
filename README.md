@@ -5,6 +5,7 @@
 
 
 ---
+
 <h4> Connect with me </h4>
 
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/iaminnocent99)
@@ -27,7 +28,37 @@
 - 📫 You can reach me via my [email](mailto:chukwuemeka140@gmail.com) or my socials above.
 <br/><br/>
 
+
+## Top Repositories
+
+<p align="center">
+   <a href="https://github.com/Innocent9712/Spacetagram">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Innocent9712&repo=Spacetagram&theme=blueberry" width="400"/>
+   </a>
+   <a href="https://github.com/Innocent9712/arithMathic">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Innocent9712&repo=arithMathic&theme=blueberry" width="400"/>
+   </a>
+   <a href="https://github.com/Innocent9712/Learnable-2021-standardization-test">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Innocent9712&repo=Learnable-2021-standardization-test&theme=blueberry" width="400"/>
+   </a>
+   <a href="https://github.com/Innocent9712/QuickQuestion">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Innocent9712&repo=QuickQuestion&theme=blueberry" width="400"/>
+   </a>
+   <a href="https://github.com/Innocent9712/mix-match">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Innocent9712&repo=mix-match&theme=blueberry" width="400"/>
+   </a>
+   <a href="https://github.com/Innocent9712/Website">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Innocent9712&repo=Website&theme=blueberry" width="400"/>
+   </a>
+</p>
+
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=Innocent9712&theme=blueberry&hide=stars&show_icons=true" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Innocent9712&theme=blueberry&layout=compact" width="400" />
+
+
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Innocent9712&theme=blueberry&hide=stars&show_icons=true" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Innocent9712&theme=blueberry&layout=compact" width="400" />
+</p>                                                                                                                             
+                                                                                                                                 
 ---
