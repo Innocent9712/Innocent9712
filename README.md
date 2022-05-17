@@ -1,5 +1,5 @@
 <div align="center">
-    <img max-width="800" src="assets/github_profile_banner.png"/>
+    <img max-width="800" src="assets/banner.png"/>
 </div>
 <br />
 
@@ -17,13 +17,13 @@
 ## About me:mage_man:
 
 <p>
-    My name is <strong>Innocent Chukwuemeka</strong> a passionate <strong>Frontend Engineer</strong>. I enjoy coding as much as I love anime and interacting with other tech individuals and look forward to new opportunities in exploring the different aspect of the tech space.
+    My name is <strong>Innocent Chukwuemeka</strong> a passionate <strong>Software Engineer</strong>. I enjoy coding as much as I love anime and interacting with other tech individuals and look forward to new opportunities in exploring the different aspect of the tech space.
 </p><br/>
 
 ## What I'm up to currently:computer:
 
-- 🔭 I’m currently working on getting better as a Frontend Engineer.
-- 🌱 I’m currently learning Next.js and Cloud Engineering.
+- 🔭 I’m currently working on getting better as a Software Engineer.
+- 🌱 I’m currently learning a whole bunch of things.
 - 👯 I’m looking to collaborating/working on projects that are fun and exciting.
 - 📫 You can reach me via my [email](mailto:chukwuemeka140@gmail.com) or my socials above.
 <br/><br/>
