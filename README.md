@@ -32,18 +32,18 @@
 ## Top Repositories
 
 <p align="center">
-   <a href="https://github.com/Innocent9712/Spacetagram">
+   <a href="https://github.com/Innocent9712/Altschool-Semester-3-Exam">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Innocent9712&repo=Spacetagram&theme=blueberry" width="400"/>
    </a>
     
-   <a href="https://github.com/Innocent9712/Website">
+   <a href="https://github.com/Innocent9712/project-pepper">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Innocent9712&repo=Website&theme=blueberry" width="400"/>
    </a>
     
    <a href="https://github.com/Innocent9712/Learnable-2021-standardization-test">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Innocent9712&repo=Learnable-2021-standardization-test&theme=blueberry" width="400"/>
        
-   <a href="https://github.com/Innocent9712/mix-match">
+   <a href="https://github.com/Innocent9712/alx-interview">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Innocent9712&repo=mix-match&theme=blueberry" width="400"/>
    </a>
        
